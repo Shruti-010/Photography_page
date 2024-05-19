@@ -8,6 +8,5 @@ Clean Layout: A straightforward design that emphasizes visual content.
 Responsive Design: Ensures the homepage looks great on all devices.
 
 # Technologies Used
-HTML5: To structure the content of the page.
-
+HTML5: To structure the content of the page.  
 CSS3: For styling and responsive design.
